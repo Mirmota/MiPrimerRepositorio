@@ -2,3 +2,5 @@ Agacharme
 cojo impulso
 salto
 caigo
+
+que se deslize jj
